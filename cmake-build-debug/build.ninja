@@ -49,8 +49,8 @@ cmake_ninja_workdir = F$:/Learning$ C++/cmake-build-debug/
 
 build cmake_object_order_depends_target_Learning_C__: phony || .
 
-build CMakeFiles/Learning_C__.dir/while_loop.cpp.obj: CXX_COMPILER__Learning_C___unscanned_Debug F$:/Learning$ C++/while_loop.cpp || cmake_object_order_depends_target_Learning_C__
-  DEP_FILE = CMakeFiles\Learning_C__.dir\while_loop.cpp.obj.d
+build CMakeFiles/Learning_C__.dir/do_while.cpp.obj: CXX_COMPILER__Learning_C___unscanned_Debug F$:/Learning$ C++/do_while.cpp || cmake_object_order_depends_target_Learning_C__
+  DEP_FILE = CMakeFiles\Learning_C__.dir\do_while.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\Learning_C__.dir
   OBJECT_FILE_DIR = CMakeFiles\Learning_C__.dir
@@ -63,7 +63,7 @@ build CMakeFiles/Learning_C__.dir/while_loop.cpp.obj: CXX_COMPILER__Learning_C__
 #############################################
 # Link the executable Learning_C__.exe
 
-build Learning_C__.exe: CXX_EXECUTABLE_LINKER__Learning_C___Debug CMakeFiles/Learning_C__.dir/while_loop.cpp.obj
+build Learning_C__.exe: CXX_EXECUTABLE_LINKER__Learning_C___Debug CMakeFiles/Learning_C__.dir/do_while.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Learning_C__.dir

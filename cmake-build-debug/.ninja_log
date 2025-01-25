@@ -1,3 +1,7 @@
 # ninja log v6
 1	416	7595119319239916	CMakeFiles/Learning_C__.dir/while_loop.cpp.obj	7396a9bbcf362714
 417	500	7595119323389901	Learning_C__.exe	1f7800c9d6f0faa
+11	417	7595123719365509	CMakeFiles/Learning_C__.dir/do_while.cpp.obj	ab5a2998edb97618
+11	89	7595124453611166	Learning_C__.exe	5acf1c6c498bfc1b
+4	404	7595124660251229	CMakeFiles/Learning_C__.dir/do_while.cpp.obj	ab5a2998edb97618
+404	479	7595124664251262	Learning_C__.exe	5acf1c6c498bfc1b
