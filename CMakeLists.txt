@@ -6,5 +6,6 @@ set(CMAKE_CXX_STANDARD 20)
 add_executable(Learning_C__ #while_loop.cpp
         #do_while.cpp
         #multiplication_table.cpp
-        array.cpp
+        #array.cpp
+        student_marks_application.cpp
 )
