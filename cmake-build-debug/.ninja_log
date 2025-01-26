@@ -1,16 +1,11 @@
 # ninja log v6
 1	416	7595119319239916	CMakeFiles/Learning_C__.dir/while_loop.cpp.obj	7396a9bbcf362714
-445	522	7595978874774756	Learning_C__.exe	524877da29dc8bfc
-19	476	7595990751106197	CMakeFiles/Learning_C__.dir/student_marks_application.cpp.obj	ba887127f49096ad
-4	404	7595124660251229	CMakeFiles/Learning_C__.dir/do_while.cpp.obj	ab5a2998edb97618
-36	1027	7595344620698786	CMakeFiles/Learning_C__.dir/multiplication_table.cpp.obj	bacace3ee049890
-15	281	7595990844965325	build.ninja	b691e996f160dd07
-15	495	7595990751076182	CMakeFiles/Learning_C__.dir/array.cpp.obj	add20c4c139190d7
-17	458	7595990865285310	CMakeFiles/Learning_C__.dir/student_marks_application.cpp.obj	ba887127f49096ad
-458	536	7595990869695321	Learning_C__.exe	bbc69113ecdb280e
-18	488	7595991638299563	CMakeFiles/Learning_C__.dir/student_marks_application.cpp.obj	ba887127f49096ad
-488	577	7595991643009572	Learning_C__.exe	bbc69113ecdb280e
-14	441	7595994378786220	CMakeFiles/Learning_C__.dir/student_marks_application.cpp.obj	ba887127f49096ad
-441	519	7595994383051357	Learning_C__.exe	bbc69113ecdb280e
 15	450	7595998877002727	CMakeFiles/Learning_C__.dir/student_marks_application.cpp.obj	ba887127f49096ad
 451	531	7595998881362735	Learning_C__.exe	bbc69113ecdb280e
+4	404	7595124660251229	CMakeFiles/Learning_C__.dir/do_while.cpp.obj	ab5a2998edb97618
+36	1027	7595344620698786	CMakeFiles/Learning_C__.dir/multiplication_table.cpp.obj	bacace3ee049890
+15	281	7596148129982949	build.ninja	b691e996f160dd07
+15	495	7595990751076182	CMakeFiles/Learning_C__.dir/array.cpp.obj	add20c4c139190d7
+16	320	7596148129982949	build.ninja	b691e996f160dd07
+24	596	7596148131027613	CMakeFiles/Learning_C__.dir/pointer.cpp.obj	63b8221b568473bf
+596	874	7596148136749870	Learning_C__.exe	8835df760177699b

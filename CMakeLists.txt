@@ -7,5 +7,6 @@ add_executable(Learning_C__ #while_loop.cpp
         #do_while.cpp
         #multiplication_table.cpp
         #array.cpp
-        student_marks_application.cpp
+        #student_marks_application.cpp
+        pointer.cpp
 )
