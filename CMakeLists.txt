@@ -9,5 +9,6 @@ add_executable(Learning_C__ #while_loop.cpp
         #array.cpp
         #student_marks_application.cpp
         #pointer.cpp
-        function.cpp
+        #function.cpp
+        guseeingGame.cpp
 )
